@@ -2,11 +2,16 @@
   "id": "tentacruel",
   "name": "Tentacruel",
   "image": "/placeholder.svg?height=80&width=80",
-  "initialMove": "Truco para bloquear a Registeel,",
+  "initialMove": "🪨TRAMPA ROCAS🪨 (GARDEVOIR TIENE BANDA FOCUS",
   "tricks": [
     {
-      "detail": "Entra Excadrill +2 +2 + Trampa Rocas",
-      "variant": []
+      "detail": "Elektross → Gengar Otra Vez +4",
+      "variant": [
+         {
+           "detail": "Registeel → Dragonite Otra Vez +2 (Aguanta un golpe fuerte y vuelve a boostear)",
+           "variant": []
+         }
+      ]
     }
   ]
 }
